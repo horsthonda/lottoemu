@@ -1,0 +1,3 @@
+Sitemap: https://horsthonda.github.io/lottoemu/sitemap.xml
+User-agent:*
+Disallow:
